@@ -1,0 +1,32 @@
+{
+  "name": "css-grid-builder",
+  "version": "0.0.0",
+  "description": "Build with the CSS Grid",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moseley/css-grid-builder.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jeremy Moseley <jeremymoseley@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moseley/css-grid-builder/issues"
+  },
+  "homepage": "https://github.com/moseley/css-grid-builder#readme"
+}
