@@ -1,6 +1,6 @@
 {
   "name": "css-grid-builder",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Build with the CSS Grid",
   "main": "index.js",
   "directories": {
